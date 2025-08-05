@@ -1,0 +1,23 @@
+query GetSpeakers {
+  speakers {
+    username
+    name
+    company
+    position
+    avatar
+  }
+}
+
+query GetSpeakerDetails {
+  speakers {
+    username
+    name
+    company
+    position
+    about
+    location
+    url
+    avatar
+    years
+  }
+}

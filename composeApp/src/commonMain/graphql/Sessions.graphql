@@ -1,0 +1,40 @@
+query GetSessions {
+  sessions {
+    id
+    title
+    description
+    start
+    end
+    event_type
+    event_subtype
+    venue
+    speakers {
+      username
+      name
+      avatar
+    }
+  }
+}
+
+query GetSessionDetails {
+  sessions {
+    id
+    title
+    description
+    start
+    end
+    event_type
+    event_subtype
+    venue
+    speakers {
+      username
+      name
+      company
+      position
+      about
+      location
+      url
+      avatar
+    }
+  }
+}
