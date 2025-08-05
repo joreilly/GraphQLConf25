@@ -12,4 +12,6 @@ Follow on prompts:
 
 
 <img width="983" height="704" alt="Screenshot 2025-08-05 at 20 06 49" src="https://github.com/user-attachments/assets/1159c77c-debb-4294-a0af-0a3697d073f7" />
-<img width="1036" height="896" alt="Screenshot 2025-08-05 at 20 21 07" src="https://github.com/user-attachments/assets/f46c229c-e993-485f-8efa-7d13d4085027" />
+
+
+<img width="1608" height="1045" alt="Screenshot 2025-08-05 at 20 28 32" src="https://github.com/user-attachments/assets/3944781c-5b9a-47b9-8765-78bb38149041" />
