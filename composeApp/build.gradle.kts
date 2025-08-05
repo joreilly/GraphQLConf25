@@ -37,6 +37,7 @@ kotlin {
             implementation(compose.preview)
             implementation(libs.androidx.activity.compose)
         }
+
         commonMain.dependencies {
             implementation(compose.runtime)
             implementation(compose.foundation)
@@ -54,11 +55,8 @@ kotlin {
             // Coil
             implementation(libs.coil.core)
             implementation(libs.coil.compose)
-            implementation(libs.coil.network.okhttp)
-            
-            // OkHttp
-            implementation(libs.okhttp)
-            
+            implementation(libs.coil.network.ktor)
+
             // Voyager (Navigation)
             implementation(libs.voyager.navigator)
             implementation(libs.voyager.transitions)
