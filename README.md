@@ -1,5 +1,5 @@
 Example Compose Multiplatform project created using Junie AI coding agent! (shell initially created using 
-Kotlin Multipaltform New Project wisard in Android Studio).  Also initially copied graphql schema in to the project.
+Kotlin Multipaltform New Project wizard in Android Studio).  Also initially copied graphql schema in to the project.
 
 Initial prompt:
 >"Create a compose multiplatform conference app using data from https://graphqlconf.app/graphql graphql endpoint.  Use schema.graphql. Have a separate details screen for the session and speaker info.  Use Coil3 library to display profile photos (also include coil-network-okhttp dependency)"
