@@ -1,4 +1,4 @@
-Example Compose Multiplatform project created using Junie AI coding agent! (shell initially created using 
+Example Compose Multiplatform project created using Junie AI coding agent using Sonnet 3.7 LLM (shell initially created using 
 Kotlin Multipaltform New Project wizard in Android Studio).  Also initially copied graphql schema in to the project (backend created by https://github.com/martinbonnin)
 
 Initial prompt:
